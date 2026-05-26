@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderealculate",
+        "uuid": 2631447,
+        "checksum": "x9dk3h"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
